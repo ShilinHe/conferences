@@ -3,5 +3,5 @@
   tag: SE
 - name: Natural Language Processing
   tag: NLP
-- name: Artificial Intelligence
-  tag: AI
+- name: Machine Learning
+  tag: ML

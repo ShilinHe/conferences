@@ -1,7 +1,7 @@
 ---
-- name: Security
-  tag: SEC
-- name: Privacy
-  tag: PRIV
-- name: Crypto
-  tag: CRYPTO
+- name: Software Engineering
+  tag: SE
+- name: Natural Language Processing
+  tag: NLP
+- name: Artificial Intelligence
+  tag: AI

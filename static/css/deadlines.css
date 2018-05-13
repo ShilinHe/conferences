@@ -1,8 +1,8 @@
 body {
   font-size: 16px;
   line-height: 23px;
-  font-weight: 300;
-  /* color: #333; */
+  overflow-y: scroll;
+  color: #333;
 }
 
 body *::selection {
@@ -22,28 +22,24 @@ body *::selection {
 
 h1,h2,h3 {
   /* font-weight: 300; */
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 2em;
   line-height: 35px;
 }
 
 h2 {
-  margin: 0 0 10px;
-  font-size: 25px;
-  line-height: 30px;
-}
-
-h3 {
-  margin: 0;
-  font-size: 20px;
-  line-height: 25px;
+  font-size: 1em;
+  line-height: 1.25;
+  font-weight: 600;
 }
 
 .page-header {
-  margin-top: 20px;
+  margin-top: 2em;
 }
 
 p.authors {
@@ -79,50 +75,19 @@ a:hover, a:focus {
   text-decoration: none;
 }
 
-.thumb {
-  margin: 20px 0;
-  border: 1px solid #808080;
-}
-
-pre {
-  color: #333;
-  font-size: 12px;
-  line-height: 17px;
-}
-
-footer {
-  font-size: 13px;
-}
-
 .past {
   opacity: 0.5;
 }
 
-.deadline, .meta {
-  font-size: 13px;
-}
-
 .timer {
-  font-size: 20px;
+  font-size: 1.5em;
+  line-height: 1.25em;
 }
 
 .checkbox {
-  font-size: 12px;
+  margin-right: 1em;
 }
 
-.calendar {
-  font-size: 12px;
-  margin-bottom: -5px;
-}
-
-.calendar img {
-  margin-right: 5px;
-}
-
-.ind-cal {
-  margin: 0 5px;
-}
-
-.calendar img {
-  height: 20px;
+footer {
+  margin-bottom: 2em;
 }

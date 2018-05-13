@@ -1,15 +1,14 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Security and Privacy Conference Deadlines
+description: Countdowns to top Security and Privacy conference deadlines.
+author: Bogdan Kulynych
 
-domain: "shilinhe.github.io/conferences/"
+domain: "sec-deadlines.github.io"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: ShilinHe
-github_repo: conferences
+twitter_username: hiddenmarkov
+github_username: sec-deadlines
+github_repo: sec-deadlines
+ga_id: UA-104921371-1
 
 markdown: kramdown
-ga_id: UA-36274081-2
+

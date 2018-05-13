@@ -3,7 +3,7 @@ description: Countdowns to top Security and Privacy conference deadlines.
 author: Bogdan Kulynych
 
 domain: "shilinhe.github.io"
-baseurl: "/conferences/"
+baseurl: "/conferences"
 
 twitter_username: hiddenmarkov
 github_username: shilinhe

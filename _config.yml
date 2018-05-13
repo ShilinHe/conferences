@@ -1,14 +1,14 @@
-title: Security and Privacy Conference Deadlines
-description: Countdowns to top Security and Privacy conference deadlines.
-author: Bogdan Kulynych
+title: Top Conference Deadlines
+description: Countdowns to top conference deadlines, including NLP, AI, SE
+author: Shilin HE
 
 domain: "shilinhe.github.io"
 baseurl: "/conferences"
 
-twitter_username: hiddenmarkov
+twitter_username: ShilinHe
 github_username: shilinhe
 github_repo: conferences
-ga_id: UA-104921371-1
+ga_id: UA-111008986-2
 
 markdown: kramdown
 

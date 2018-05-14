@@ -1,6 +1,5 @@
-# Security and Privacy deadlines countdown
-
-Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
+# Academic Conference Deadlines
+The  [website](https://shilinhe.github.io/conferences/) contains conferences of three categories currently, i.e., Software Engineering(SE), Natural Language Processing(NLP), and Machine Learning(ML)
 
 ## Adding/updating a conference
 
@@ -13,14 +12,14 @@ Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 Example record:
 
 ```
-- name: Euro S&P
-  description: IEEE European Symposium on Security and Privacy
-  year: 2018
-  link: http://www.ieee-security.org/TC/EuroSP2018/
-  deadline: "2017-08-15 23:59"
-  date: April 24-26
-  place: London, UK
-  tags: [SEC, PRIV]
+- name: ICSE
+  description: International Conference on Software Engineering
+  year: 2019
+  link: https://2019.icse-conferences.org/
+  deadline: "2018-08-24 23:59"
+  date: "May 25 - May 31"
+  place: Montreal, QC, Canada
+  tags: SE
 ```
 
 Descriptions of the fields:
@@ -35,7 +34,7 @@ Descriptions of the fields:
 | `timezone`    | Timezone in [tz][1] format. By default is UTC-12 ([AoE][2]) |
 | `date`        | When the conference is happening                            |
 | `place`       | Where the conference is happening                           |
-| `tags`        | One or multiple tags: `SEC`, `PRIV`, or `CRYPTO`            |
+| `tags`        | One or multiple tags: `SE`, `NLP`, or `ML`            |
 
 Fields marked with asterisk (\*) are required.
 
@@ -72,4 +71,9 @@ Timezone is specified in [tz format][1]. Unlike abbreviations (e.g. EST), these 
 
 [1]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 [2]: https://www.timeanddate.com/time/zones/aoe
+
+# Reference
+Based on the following two repositories: 
+* [ai-deadlines](https://aideadlin.es) by @abshkdz 
+* [sec-deadlines](https://sec-deadlines.github.io/) by @sec-deadlines
 

@@ -58,5 +58,11 @@
   place: Singapore
   tags: ML
 
-
-
+- name: NL4SE (Workshop with FSE)
+  description: Workshop on NLP for Software Engineering
+  year: 2018
+  link: https://nl4se2018.github.io/
+  deadline: "2018-08-31 23:59"
+  date: November 4-9, 2018
+  place: Lake Buena Vista, Florida, USA
+  tags: [SE, NLP]

@@ -67,3 +67,11 @@
   place: Lake Buena Vista, Florida, USA
   tags: [SE, NLP]
   
+- name: WWW
+  description: The Web Conference (Abstract Deadline) 
+  year: 2019
+  link: https://www2019.thewebconf.org/call-for-papers
+  deadline: "2018-10-29 23:59"
+  date: "May 13 to May 17, 2019"
+  place: San Francisco, CA, USA
+  tags: ML

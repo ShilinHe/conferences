@@ -8,6 +8,15 @@
   place: Tallinn, Estonia
   tags: SE
 
+- name: KDD
+  description:  ACM SIGKDD Conference On Knowledge Discovery and Data Mining
+  year: 2019
+  link: http://www.kdd.org/kdd2019/
+  deadline: "2019-02-03 23:59"
+  date: "August 3 - 7"
+  place: Anchorage, Alaska, United States
+  tags: ML
+
 - name: ASE
   description:  IEEE/ACM International Conference on Automated Software Engineering
   year: 2019

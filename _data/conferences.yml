@@ -26,13 +26,13 @@
   place: San Diego, California, United States
   tags: SE
   
-- name: WWW
-  description: The Web Conference (Abstract Deadline) 
+- name: ACL
+  description:  Annual Meeting of the Association for Computational Linguistics 
   year: 2019
-  link: https://www2019.thewebconf.org/call-for-papers
-  deadline: "2018-10-29 23:59"
-  date: "May 13 to May 17, 2019"
-  place: San Francisco, CA, USA
+  link: http://www.acl2019.org/EN/index.xhtml
+  deadline: "2019-03-04 23:59"
+  date: "July 28 to August 2, 2019"
+  place: Florence, Italy
   tags: ML
 
 - name: DSN
@@ -43,13 +43,3 @@
   date: "June 24 - June 27"
   place: Portland, Oregon, USA
   tags: SE
-
-
-- name: PLDI
-  description: Programming Language Design and Implementation 
-  year: 2019
-  link: https://pldi19.sigplan.org/
-  deadline: "2018-11-16 23:59"
-  date: "June 24 - June 26"
-  place: Arizona, USA
-  tags: PL

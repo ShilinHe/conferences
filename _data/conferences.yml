@@ -1,13 +1,4 @@
 ---
-- name: ESEC/FSE
-  description:  ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-  year: 2019
-  link: https://esec-fse19.ut.ee/
-  deadline: "2019-02-20 23:59"
-  date: "August 26 - 30"
-  place: Tallinn, Estonia
-  tags: SE
-
 - name: KDD
   description:  ACM SIGKDD Conference On Knowledge Discovery and Data Mining
   year: 2019
@@ -17,14 +8,6 @@
   place: Anchorage, Alaska, United States
   tags: ML
 
-- name: ASE
-  description:  IEEE/ACM International Conference on Automated Software Engineering
-  year: 2019
-  link: https://2019.ase-conferences.org/home
-  deadline: "unknown"
-  date: "November 11 - 15"
-  place: San Diego, California, United States
-  tags: SE
   
 - name: ACL
   description:  Annual Meeting of the Association for Computational Linguistics 
@@ -33,13 +16,14 @@
   deadline: "2019-03-04 23:59"
   date: "July 28 to August 2, 2019"
   place: Florence, Italy
-  tags: ML
+  tags: NLP
 
-- name: DSN
-  description: International Conference on Dependable Systems and Networks 
+- name: EMNLP
+  description:  Conference on Empirical Methods in Natural Language Processing 
   year: 2019
-  link: http://www.dsn.org/
-  deadline: "2018-12-07 23:59"
-  date: "June 24 - June 27"
-  place: Portland, Oregon, USA
-  tags: SE
+  link: https://www.emnlp-ijcnlp2019.org
+  deadline: "2019-05-21 23:59"
+  date: "November 3 - 7, 2019"
+  timezone: UTC
+  place: Hong Kong
+  tags: NLP

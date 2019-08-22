@@ -1,29 +1,10 @@
 ---
-- name: KDD
-  description:  ACM SIGKDD Conference On Knowledge Discovery and Data Mining
-  year: 2019
-  link: http://www.kdd.org/kdd2019/
-  deadline: "2019-02-03 23:59"
-  date: "August 3 - 7"
-  place: Anchorage, Alaska, United States
-  tags: ML
 
-  
 - name: ACL
   description:  Annual Meeting of the Association for Computational Linguistics 
-  year: 2019
-  link: http://www.acl2019.org/EN/index.xhtml
-  deadline: "2019-03-04 23:59"
-  date: "July 28 to August 2, 2019"
-  place: Florence, Italy
-  tags: NLP
-
-- name: EMNLP
-  description:  Conference on Empirical Methods in Natural Language Processing 
-  year: 2019
-  link: https://www.emnlp-ijcnlp2019.org
-  deadline: "2019-05-21 23:59"
-  date: "November 3 - 7, 2019"
-  timezone: UTC
-  place: Hong Kong
+  year: 2020
+  link: https://acl2020.org/
+  deadline: "2019-12-09 23:59"
+  date: "July 5th to 10th, 2019"
+  place: Seattle, Washington
   tags: NLP
